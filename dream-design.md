@@ -12,6 +12,9 @@
 
 ## Top-Level Design/Layout
 > Provide an overview of your user interface. Annotated mockups work very well here, with accompanying text describing, at a high level, the various components of your design.
+![](homepage.jpg)
+![](merchant.jpg)
+![](customer.jpg)
 
 ## Usage Scenarios
 
