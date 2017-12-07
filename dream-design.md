@@ -43,7 +43,7 @@
 > State why your design is the way it is: relevant priorities, mental models, interaction design concepts, guidelines, principles, theories, etc. Cite relevant references as needed.
 
 ## Usability Metric Forecast
-> If implemented then tested, what would be your design’s strong metrics? Weak metrics? Explain your choices.
+> If implemented, my web app would excell in learnability, efficiency, and satisfaction. Through my work experience at a wholesale seafood distributor, I learned the numerous inefficiencies that are associated with the current paper invoicing system they use. By using my dream web app, or something similar, they would be able to send drivers on there delivery routes faster because there is no need to wait for the invoices to be created an printed. Thus, converting to an electronic invoicing system would boost the business's efficiency. The interface itself is also very efficient. The buttons are clearly labeled and the interface continuously updates based on user input. The customers can sign and return an invoice with a total of two clicks. Because the interface is simple and free of clutter, learnability would be a strong metric. The user's inputs also give feedback, updating the page as they click elements or fill in text fields. 
 
 ## References
 > Cite formally, as you would with any other research paper.
