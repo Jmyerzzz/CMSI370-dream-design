@@ -12,14 +12,23 @@
 
 ## Top-Level Design/Layout
 <img src="homepage.jpg" width="600"> 
+
+#### Homepage
 > This is a mock up of the merchant's homepage of my web application. The image is annotated with a description of each component.
 
 ****
+
 <img src="merchant.jpg" width="600">
-> This is a mock up of the web page for creating and sending a new invoice, only accessible by the merchant. 
+
+#### Create & Send
+> This is a mock up of the web page for creating and sending a new invoice, only accessible by the merchant. The image is annotated with a description of each component.
 
 ****
+
 <img src="customer.jpg" width="600">
+
+#### Sign & Send
+> This is a mock up of the customer's web page.
 
 
 ## Usage Scenarios
