@@ -11,10 +11,16 @@
 > https://www.docusign.com/developer-center/api-overview
 
 ## Top-Level Design/Layout
-> Provide an overview of your user interface. Annotated mockups work very well here, with accompanying text describing, at a high level, the various components of your design.
-![homepage](homepage.jpg)
-![merchant view](merchant.jpg)
-![customer view](customer.jpg)
+<img src="homepage.jpg" width="600"> 
+> This is a mock up of the merchant's homepage of my web application. The image is annotated with a description of each component.
+
+****
+<img src="merchant.jpg" width="600">
+> This is a mock up of the web page for creating and sending a new invoice, only accessible by the merchant. 
+
+****
+<img src="customer.jpg" width="600">
+
 
 ## Usage Scenarios
 
