@@ -1,11 +1,14 @@
-# Dream Design Document Template
-Copy this file to a new one called _dream-design.md_. Populate the sections as indicated. Illustrate your ideas as needed, with diagrams, screen mockups, etc. Don’t forget to cite references—this is still a piece of formal writing.
+# Dream Design Web Application
 
 ## Application Description
-> A description of the application for which you have created the design, focusing on any particular usability issues that you’d like to address. There is no restriction on the platform of the application; you can make it whatever you want it to be.
+> My dream web application is an invoice managing system that sends an invoice to the receving customer. The invoice will be accessible through the application where the recipient e-signs the document. Once the document is signed, the invoice is updated and marked as received. The customer will also receive an email notification that there is an invoice with a pending signature.
 
 ### Web Service(s) Used
-> Briefly list and describe the web service(s) that will support the functionality of your application. Don’t assume that the reader knows about the service(s) beforehand. Describe the functionality you intend to use, and list the API calls that will support your dream design. Feel free to provide web links to relevant online documentation.
+> The invoicing portion of my application will be handled by the PayPal API. The PayPal Invoices API has numerous built in functions, which include drafting, sending, and updating of invoices. The merchant will need to make an API call to draft/generate the invoice—this request will include customer info, billing info, and a list of purchased items. Once the invoice is drafted, another API call is required to send the invoice. Support for the electronic signature will be provided by the DocuSign API. This API has a built in function that enables the web developer to embed a secure e-signature link in the web app. After the customer e-signs the invoice, the PayPal API makes another request to update the invoice on the merchant's end.
+
+> References:  
+> https://developer.paypal.com/docs/api/invoicing/  
+> https://www.docusign.com/developer-center/api-overview
 
 ## Top-Level Design/Layout
 > Provide an overview of your user interface. Annotated mockups work very well here, with accompanying text describing, at a high level, the various components of your design.
