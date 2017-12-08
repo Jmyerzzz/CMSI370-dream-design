@@ -52,4 +52,12 @@
 > If implemented, my web app would excel in learnability, efficiency, and satisfaction. Through my work experience at a wholesale seafood distributor, I learned the numerous inefficiencies that are associated with the current paper invoicing system they use. By using my dream web app, or something similar, they would be able to send drivers on their delivery routes faster because there is no need to wait for the invoices to be created and printed. Thus, converting to an electronic invoicing system would boost the business's efficiency. The interface itself is also very efficient. The buttons are clearly labeled and the interface continuously updates based on user input. The customers can sign and return an invoice with a total of two clicks. Because the interface is simple and free of clutter, learnability would be a strong metric. The user's inputs also give feedback, updating the page as they click elements or fill in text fields. Satisfaction will be a strong metric because of the overall improvements that this web app brings compared to a paper invoicing system. The weakest metric would be errors. The only reason this is the weakest metric is because the creation of an invoice requires that the merchant transfers the information from the customer's order into the text fields. If the merchant makes a mistake in the creation of an invoice then they will be notified by the customer to revise the invoice.
 
 ## References
-> Cite formally, as you would with any other research paper.
+> PayPal. (n.d.). Invoicing API. Retrieved December 08, 2017, from https://developer.paypal.com/docs/api/invoicing/  
+> 
+> C. (2017, September 21). DocuSign Electronic Signature API. Retrieved December 08, 2017, from https://www.docusign.com/developer-center/api-overview
+> 
+> Dionisio, J. (n.d.). Guidelines, Principles, and Theories. Retrieved December 6, 2017, from http://dondi.lmu.build/share/ixd/guidelines.pdf
+> 
+> Dionisio, J. (n.d.). HCI Principles. Retrieved December 6, 2017, from http://dondi.lmu.build/share/ixd/principles.pdf
+> 
+> Dionisio, J. (n.d.). Menus, Forms, and Dialogs. Retrieved December 6, 2017, from http://dondi.lmu.build/share/ixd/menus-forms-dialogs.pdf
